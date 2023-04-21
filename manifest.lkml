@@ -1,6 +1,6 @@
-project_name: "block-weather"
+# project_name: "block-weather"
 
 constant: CONNECTION_NAME {
-  value: "input_connection_name"
+  value: "docs_bigquery_db"
   export: override_optional
 }
